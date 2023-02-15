@@ -1,0 +1,11 @@
+播稻田蔬香查看说明
+java -jar sfntly.jar -h
+
+提取字体
+java -jar sfnttool.jar -s '需要提取的字体' 源字体库 导出的最终字体库
+
+
+
+java -jar sfnttool.jar -s '播稻田蔬香享清廉乡村' HuangTingJianShuFaZiTi.ttf HuangTingJianShuFaZiTi-mini.ttf
+
+java -jar sfnttool.jar -s '美丽乡村家庭户中共修水县杭口镇坪下村支部委员会' OzCaramel.ttf OzCaramel-mini.ttf
